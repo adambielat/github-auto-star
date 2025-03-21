@@ -1,7 +1,7 @@
 <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="" align="center" width="500" height="300"><h1 align="center">Github Auto Star Tool</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-<img src="https://i.imgur.com/1Y2ZjN4.png" alt="" align="center" width="auto" height="auto">
+<img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="" align="center" width="500" height="auto" />
 
 ## Project Description
 
