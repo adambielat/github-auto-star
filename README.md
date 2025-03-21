@@ -18,5 +18,5 @@
 
 ## Tech Stack
 
-Python 3.13.2
+Python 3.13.2<br>
 **Libraries**: undetected_chromedriver, email.utils, os, csv, pandas, colorama
