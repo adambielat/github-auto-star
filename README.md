@@ -2,6 +2,3 @@
 
 <img src="https://i.imgur.com/1Y2ZjN4.png" alt="" align="center" width="1000" height="400">
 
-
-Python 3.13.2<br>
-**Libraries**: undetected_chromedriver, email.utils, os, csv, pandas, colorama
